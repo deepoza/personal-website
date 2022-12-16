@@ -384,8 +384,3 @@ footer span a:hover{
   color: #AD449C;
   background: none;
 }
-
-.project-image-thumbnail {
-    display: -webkit-box;
-    margin-right: auto;
-}
